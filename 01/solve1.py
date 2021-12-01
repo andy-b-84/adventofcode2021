@@ -2,7 +2,7 @@
 
 increases = 0
 
-with open('input1.txt') as input:
+with open('input.txt') as input:
     depthText = input.readline()
     oldDepth = int(depthText)
     depthText = input.readline()
